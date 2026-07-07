@@ -1,0 +1,1 @@
+def analyze_sentiment(text): return {'sentiment': 'Bullish', 'score': 0.8}

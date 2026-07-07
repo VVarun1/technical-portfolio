@@ -1,0 +1,1 @@
+def predict_greeks(market_state): return {'delta': 0.5, 'gamma': 0.02}

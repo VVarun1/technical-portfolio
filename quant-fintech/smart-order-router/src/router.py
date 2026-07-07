@@ -1,0 +1,1 @@
+def route_order(size): return 'Split across 3 venues to minimize slippage'

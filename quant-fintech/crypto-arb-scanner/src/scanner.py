@@ -1,0 +1,1 @@
+def scan_exchanges(): return {'pair': 'BTC/USDT', 'spread': 0.001}
